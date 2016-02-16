@@ -1,0 +1,110 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* website_multi_image
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-16 15:47+0000\n"
+"PO-Revision-Date: 2016-02-16 16:51+0100\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: fr_CH\n"
+"X-Generator: Poedit 1.8.1\n"
+
+#. module: website_multi_image
+#: view:website.config.settings:website_multi_image.view_website_config_settings
+msgid "Copy Image to Images"
+msgstr "Copier l’image vers les images"
+
+#. module: website_multi_image
+#: field:product.image,create_uid:0
+msgid "Created by"
+msgstr "Créé par"
+
+#. module: website_multi_image
+#: field:product.image,create_date:0
+msgid "Created on"
+msgstr "Créé le"
+
+#. module: website_multi_image
+#: field:product.image,description:0
+msgid "Description"
+msgstr "Description"
+
+#. module: website_multi_image
+#: field:product.image,from_main_image:0
+msgid "From Main Image"
+msgstr "From Main Image"
+
+#. module: website_multi_image
+#: field:product.image,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: website_multi_image
+#: field:product.image,image:0
+msgid "Image"
+msgstr "Image"
+
+#. module: website_multi_image
+#: field:product.image,image_alt:0
+msgid "Image Label"
+msgstr "Libellé de l’image"
+
+#. module: website_multi_image
+#: field:product.template,images:0
+msgid "Images"
+msgstr "Images"
+
+#. module: website_multi_image
+#: field:product.image,write_uid:0
+msgid "Last Updated by"
+msgstr "Dernière modification par"
+
+#. module: website_multi_image
+#: field:product.image,write_date:0
+msgid "Last Updated on"
+msgstr "Dernière modification le"
+
+#. module: website_multi_image
+#: field:product.image,name:0
+msgid "Name"
+msgstr "Nom"
+
+#. module: website_multi_image
+#: model:ir.model,name:website_multi_image.model_product_product
+#: field:product.image,product_tmpl_id:0
+msgid "Product"
+msgstr "Article"
+
+#. module: website_multi_image
+#: view:product.product:website_multi_image.product_product_product_only_form_view
+#: view:product.template:website_multi_image.product_product_template_only_form_view
+msgid "Product Images"
+msgstr "Images de l’article"
+
+#. module: website_multi_image
+#: model:ir.model,name:website_multi_image.model_product_template
+msgid "Product Template"
+msgstr "Modèle d'article"
+
+#. module: website_multi_image
+#: field:product.image,sequence:0
+msgid "Sequence"
+msgstr "Séquence"
+
+#. module: website_multi_image
+#: field:product.image,image_small:0
+msgid "Small Image"
+msgstr "Petite image"
+
+#. module: website_multi_image
+#: view:website.config.settings:website_multi_image.view_website_config_settings
+msgid "eCommerce images"
+msgstr "Images eCommerce"
