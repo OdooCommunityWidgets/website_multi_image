@@ -3,23 +3,19 @@
 	width: 100%;
 	height: auto;
 }
-
+.website-multi-image-container {
+	padding-left: 0px;
+	padding-right: 0px;
+}
 .website-multi-image-thumbnails {
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding: 15px 10px;
 }
 .website-multi-image-thumbnails .img {
 	cursor: pointer;
 }
-/*.website-multi-image-thumbnails .slick-slide {
-	padding-right: 15px;
-}
-.website-multi-image-thumbnails .slick-slide:last-child {
-	padding-right: 0;
-}*/
 .website-multi-image-thumbnails .slick-slide {
     margin: 0 10px;
- }
+}
 .website-multi-image-thumbnails .slick-list {
     margin: 0 -10px;
- }
+}
