@@ -4,9 +4,9 @@ Website Multi Image stores multiple product images in a tab: 'Product Images' un
 
 Website Multi-Image
 
-<H4>Please use the 8.0 branch:</H4> 
-    sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
-This will provide you with the latest working 'stable' version of the module built for the 8.0 branch. Please be advised this module is still under development.
+<H4>Please use the 9.0 branch:</H4> 
+    sudo git clone -b 9.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
+This will provide you with the latest working 'stable' version of the module built for the 9.0 branch. Please be advised this module is still under development.
 
 <H3>Frontend Demo:</H3>
 <img src="https://cloud.githubusercontent.com/assets/2337666/5392143/3d4af6e8-815e-11e4-9512-3612bfdaa86a.png"/>
