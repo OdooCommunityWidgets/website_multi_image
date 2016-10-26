@@ -1,12 +1,16 @@
+<h1>10.0 Branch is in development and is not ready for installation yet due to the fact the multi-image functionality has now been merged into the official 10.0 core.</h1>
+
+<h3>This module is undergoing a rewrite to use the core multi-image code and the website_multi_image carousel code for OwlCarousel and Slick Carousel. Currently the code is listed in __manifest__.py as uninstallable.</h3>
+
 website_multi_image
 ===================
 Website Multi Image stores multiple product images in a tab: 'Product Images' under Sales >> Product. These images are displayed on the product view page in a synced carousel (two carousels one large and one small) using OwlCarousel2.
 
 Website Multi-Image
 
-<H4>Please use the 8.0 branch:</H4> 
-    sudo git clone -b 8.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
-This will provide you with the latest working 'stable' version of the module built for the 8.0 branch. Please be advised this module is still under development.
+<H4>Please use the 10.0 branch:</H4> 
+    sudo git clone -b 10.0 https://github.com/OdooCommunityWidgets/website_multi_image.git
+This will provide you with the latest working 'stable' version of the module built for the 10.0 branch. Please be advised this module is still under development.
 
 <H3>Frontend Demo:</H3>
 <img src="https://cloud.githubusercontent.com/assets/2337666/5392143/3d4af6e8-815e-11e4-9512-3612bfdaa86a.png"/>
