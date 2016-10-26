@@ -6,7 +6,7 @@
     <field name="model">website.config.settings</field>
     <field name="inherit_id" ref="website.view_website_config_settings"/>
     <field name="arch" type="xml">
-        <xpath expr="//group[@string='Menu']" position="after">
+        <xpath expr="//group[@name='advanced']" position="after">
             <group string="eCommerce images">
                 <label for="action_copy_shop_images"/>
                 <button name="action_copy_shop_images" type="object" string="Copy Image to Images"/>

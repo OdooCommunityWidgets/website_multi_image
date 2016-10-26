@@ -2,7 +2,7 @@
     'name': 'Product Multi-Image',
     'category': 'Website',
     'version': '1.0',
-    'author': 'Luke Branch and Cristian Sebastian Rocha',
+    'author': 'Luke Branch, Cristian Sebastian Rocha, Ryan Cole',
     'depends': ['product', 'sale', 'website_sale'],
     'data': [
         'views/product_images.xml',
